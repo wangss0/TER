@@ -6,5 +6,4 @@ TER is labeled with a total of four emotion labels: happiness, satisfaction, neu
 
 ![examples](examples.png)
 
-
-
+Some examples of TER. (a) Happiness, (b) Satisfaction, (c) Neutral, (d) Question.
