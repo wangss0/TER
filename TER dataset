@@ -1,0 +1,49 @@
+# Teacher Emotion Recognition (TER)
+
+    TER is labeled with a total of four emotion labels: happiness, satisfaction, neutral, and question. 
+
+
+# TER, labeling results of some examples.
+{
+		{
+			WORDS ['我们', '喜爱', '阅读', '，', '善于', '积累', '，', '就', '能', '丰富', '我们', '的', '语言表达', '。']
+			VISUAL.shape (165, 136)
+			ACOUSTIC.shape (285, 33)
+			LABEL [[3]]
+		},
+
+​		{
+​			WORDS ['就是', '把', '应该', '把', '赞美', '的', '这个', '点赞声', '送给', '大家', '，', '非常', '棒', '啊', '，', '善于', '动手', '，', '善于', '动脑', '，', '思考', '好', '。']
+​			VISUAL.shape (305, 136)
+​			ACOUSTIC.shape (459, 33)
+​			LABEL [[2]]
+​		},
+
+​		{
+​			WORDS ['它', '有', '很多', '运用', '杠杆', '的', '例子', '，', '它', '悄悄的', '藏', '在', '了', '我们', '的', '生活', '里', '，', '比如说', '。']
+​			VISUAL.shape (96, 136)
+​			ACOUSTIC.shape (228, 33)
+​			LABEL [[1]]
+​		},
+​		
+​		{
+​			WORDS ['几条', '边', '？']
+​			VISUAL.shape (87, 136)
+​			ACOUSTIC.shape (91, 33)
+​			LABEL [[0]]
+​		},
+
+}
+
+​	 
+
+
+
+
+
+
+
+
+
+
+
