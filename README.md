@@ -27,3 +27,22 @@ Our research team is affiliated with the Research Center for Artificial Intellig
 - Recommended teaching resources
 
 If you have exciting ideas for experimental work to conduct on our teacher emotion recognition dataset, send us an email at xiongyu@cqupt.edu.cn, we are always interested in working with external collaborators.
+
+
+# **4. Content and Use of Files**
+The dataset is preprocessed according to the predefined method, with feature extraction performed for visual and audio data, and tokenization applied to text data. Dataset is encoded as python dictionary and saved as .pkl file。Format of dataset is as follows:
+```json
+{
+    "train": [
+        (words, visual, acoustic), label_id,
+        ...
+    ],
+    "dev": [ ... ],
+    "test": [ ... ]
+}
+```
+- words (List[str]): List of words
+- visual (np.array): Numpy array of shape (sequence_len, VISUAL_DIM)
+- acoustic (np.array): Numpy array of shape (seqeunce_len, ACOUSTIC_DIM)
+- label_id (float): Label for data point
+
