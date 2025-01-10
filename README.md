@@ -18,3 +18,12 @@ Neither the Chongqing University of Posts and Telecommunications nor any of the 
 
 If you have any further questions or comments, please email xiongyu@cqupt.edu.cn
 
+
+# **3. Further Information About our research team**
+Our research team is affiliated with the Research Center for Artificial Intelligence and Smart Education at the Chongqing University of Posts and Telecommunications. Our research projects have explored a variety of fields including:
+- Intelligent educational application
+- Teacher classroom evaluation
+- multimodal learning
+- Recommended teaching resources
+
+If you have exciting ideas for experimental work to conduct on our teacher emotion recognition dataset, send us an email at xiongyu@cqupt.edu.cn, we are always interested in working with external collaborators.
