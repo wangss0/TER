@@ -1,4 +1,4 @@
-# **TER**
+# **1.TER**
 
 The first multimodal dataset that considers teacher-student emotion interactions (TER), which is audio and video data collected from teachers' real classrooms. 
 
@@ -10,4 +10,11 @@ Some examples of TER. (a) Happiness, (b) Satisfaction, (c) Neutral, (d) Question
 
 
 
-### 这是我的修改
+# **2. Usage License**
+Neither the Chongqing University of Posts and Telecommunications nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
+- The user may not state or imply any endorsement from the Chongqing University of Posts and Telecommunications, Research Center for Artificial Intelligence and Smart Education (RCAISE).
+- The user may redistribute the data set, including transformations, so long as it is distributed under these same license conditions.
+- The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from a faculty member of the RCAISE at the Chongqing University of Posts and Telecommunications.
+
+If you have any further questions or comments, please email xiongyu@cqupt.edu.cn
+
